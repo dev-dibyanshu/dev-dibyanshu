@@ -1,4 +1,4 @@
-# Hi, I'm Dev 👋
+# Hi, I'm Dev  
 
 Final-year Computer Science student at Lovely Professional University, Punjab, India.
 
@@ -10,6 +10,7 @@ Interests — Scalable applications, backend development, problem solving
 
 ### Connect with me
 
-💼 [LinkedIn](https://www.linkedin.com/in/dev-dibyanshu/) • 🌐 [Portfolio](https://dev-dibyanshu.github.io/Portfolio/) • 🧠 [LeetCode](https://leetcode.com/u/dev-dibyanshu/)
-
-📧 [sd0094668@gmail.com](mailto:sd0094668@gmail.com)
+• [LinkedIn](https://www.linkedin.com/in/dev-dibyanshu/)     
+• [Portfolio](https://dev-dibyanshu.github.io/Portfolio/)    
+• [LeetCode](https://leetcode.com/u/dev-dibyanshu/)  
+• [sd0094668@gmail.com](mailto:sd0094668@gmail.com)  
