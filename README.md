@@ -4,7 +4,7 @@
 
 ### Connect with me
 
-* LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/dev-dibyanshu/)
-* Portfolio: https://dev-dibyanshu.github.io/Portfolio/
-* LeetCode: [YOUR_LEETCODE](https://leetcode.com/u/dev-dibyanshu/)
-* Email: sd0094668@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dev-dibyanshu/)
+[Portfolio](https://dev-dibyanshu.github.io/Portfolio/)
+[Leetcode](https://leetcode.com/u/dev-dibyanshu/)
+Email: sd0094668@gmail.com
