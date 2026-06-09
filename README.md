@@ -5,8 +5,8 @@ Final-year Computer Science student at Lovely Professional University, Punjab, I
 .NET Developer Intern — Capgemini  
 AI Trainer (Former) — Outlier  
 Trained in DSA — LinuxSocial  
-Tech Stack — React, Node.js, PostgreSQL, Docker, .NET  
-Interests — Scalable applications, backend development, problem solving  
+Tech Stack — React, Node.js, PostgreSQL, Docker, .NET, AWS   
+Interests — Scalable applications, backend development, homelabbing, problem solving     
 
 ### Connect with me
 
